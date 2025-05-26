@@ -85,8 +85,7 @@ Execute the C Program for the desired output.
 
 ## OUTPUT
 
-
-![alt text](41.png)
+![alt text](<Screenshot From 2025-05-26 17-43-15.png>)
 
 # RESULT:
 The programs are executed successfully.
